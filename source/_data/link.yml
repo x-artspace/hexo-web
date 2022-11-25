@@ -1,0 +1,27 @@
+- class_name: 友情链接
+  class_desc: 值得一观的网站
+  link_list:
+    - name: 小K同学
+      link: https://one.x-artspace.cn/
+      avatar: /img/xk.png # https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 你想要的，这里都有~
+    - name: 小D同学
+      link: https://blog.csdn.net/EricLeiy/
+      avatar: /img/xd.png
+      descr: 不错的技术博客
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: CSDN
+      link: https://blog.csdn.net/EricLeiy/
+      avatar: /img/csdn.jpg
+      descr: 不错的技术网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 中国最大社交分享平台
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
