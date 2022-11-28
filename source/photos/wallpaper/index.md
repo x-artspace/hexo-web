@@ -1,7 +1,7 @@
 ---
 title: 美丽的壁纸
 date: 2022-11-17 16:44:44
-top_img: /img/photo_img.jpg
+top_img: # /img/photo_img.jpg
 comments: false
 ---
 

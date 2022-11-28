@@ -1,7 +1,7 @@
 ---
-title: 卡哇伊通
+title: 二次元集合
 date: 2022-11-17 17:03:06
-top_img: /img/photo_img.jpg
+top_img: # /img/photo_img.jpg
 comments: false
 ---
 

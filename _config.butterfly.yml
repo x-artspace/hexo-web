@@ -16,7 +16,7 @@ menu:
     文章 || fas fa-book:
       分类: /categories/ || fa fa-archive
       标签: /tags/ || fa fa-tags
-      归档: /archives/ || fa fa-folder-open
+      时间轴: /archives/ || fa fa-calendar # fa fa-folder-open
     娱乐 || fas fa-list:
       # 分享: /shuoshuo/ || fa fa-comments-o
       图库: /photos/ || fa fa-camera-retro
@@ -322,7 +322,7 @@ valine:
   appKey: jgIqj5WYGvRgsYVYYwVAT1qm # leancloud application app key
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   serverURLs: https://qxdd0wpk.lc-cn-n1-shared.com # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
-  bg: https://cdn.jsdelivr.net/gh/drew233/cdn/20200409110727.webp # /img/valine_img.jpg # valine background
+  bg: /img/valine_img.jpg # https://cdn.jsdelivr.net/gh/drew233/cdn/20200409110727.webp  # valine background
   visitor: true
   placeholder: 
   option:
@@ -653,9 +653,12 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - 没有人可以回到过去重新开始
-    - 但谁都可以从今日开始
-    - 书写一个全然不同的结局
+    - Stay Up less
+    - Exercise more and read more
+    - Strive to improve yourself
+    - And pursue meaningful people and things
+    - You should be positive
+    - Come on
 
 # Loading Animation (加載動畫)
 preloader:
